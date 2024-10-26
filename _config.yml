@@ -83,7 +83,7 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  priprints:
+  preprints:
     title: 'Preprints'
 
 # Site Settings
