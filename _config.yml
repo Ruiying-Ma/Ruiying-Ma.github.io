@@ -27,8 +27,10 @@ author:
   bio              : "Senior Undergrad. Major in Computer Science"
   location         : "Beijing, China"
   employer         : "Yao Class, IIIS, Tsinghua"
+  employer-url     : "https://iiis.tsinghua.edu.cn/en/yaoclass/"
   uri              : # URL
   email            : "mry21@mails.tsinghua.edu.cn" 
+  resume           : "CV.pdf"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
