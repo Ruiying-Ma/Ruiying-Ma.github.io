@@ -284,6 +284,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _experience
+  - scope:
+      path: ""
+      type: experience
+    values:
+      layout: experience
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
