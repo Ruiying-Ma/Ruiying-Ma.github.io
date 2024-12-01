@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ruiying Ma"
-  # pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   # bio              : "Senior Undergrad. Major in Computer Science"
   employer         : "Yao Class, IIIS, Tsinghua"
   location         : "Beijing, China"
