@@ -30,7 +30,7 @@ author:
   employer-url     : "https://iiis.tsinghua.edu.cn/en/yaoclass/"
   uri              : # URL
   email            : "mry21@mails.tsinghua.edu.cn" 
-  resume           : #"CV.pdf"
+  resume           : "CV.pdf"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
