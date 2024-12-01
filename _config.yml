@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ruiying Ma"
-  pronouns         : "she/her"  
-  bio              : "Senior Undergrad. Major in Computer Science"
-  location         : "Beijing, China"
+  # pronouns         : "she/her"  
+  # bio              : "Senior Undergrad. Major in Computer Science"
   employer         : "Yao Class, IIIS, Tsinghua"
+  location         : "Beijing, China"
   employer-url     : "https://iiis.tsinghua.edu.cn/en/yaoclass/"
   uri              : # URL
   email            : "mry21@mails.tsinghua.edu.cn" 
