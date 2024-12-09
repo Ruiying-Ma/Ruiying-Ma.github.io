@@ -16,7 +16,7 @@ I am a senior undergraduate at [Yao Class](https://iiis.tsinghua.edu.cn/en/yaocl
 
 # Preprints
 
-<font size=4>**Towards Accurate and Efficient Document Analytics with Large Language Models**</font>
+### Towards Accurate and Efficient Document Analytics with Large Language Models
 
 Yiming Lin, Madelon Hulsebos, **Ruiying Ma**, Shreya Shankar, Sepanta Zeigham, Aditya G. Parameswaran, Eugene Wu
 
@@ -34,7 +34,7 @@ Yiming Lin, Madelon Hulsebos, **Ruiying Ma**, Shreya Shankar, Sepanta Zeigham, A
 
 ## Tsinghua University
 
-***Bachelor of Engineering*, Institute for Interdisciplinary Information Sciences (Yao Class).**
+***Bachelor of Engineering*, Institute for Interdisciplinary Information Sciences (Yao Class)**
 
 ***Research assistant*, advised by Prof. Huanchen Zhang**
 
