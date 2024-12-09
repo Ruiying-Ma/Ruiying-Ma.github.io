@@ -29,7 +29,8 @@ Yiming Lin, Madelon Hulsebos, **Ruiying Ma**, Shreya Shankar, Sepanta Zeigham, A
 
 # Education & Experiences
 
-<img align="left" height="200" src="../images/Tsinghua_University_Logo.png">
+
+<!-- <div style="text-align: left"><img src="../images/Tsinghua_University_Logo.png" width="100" /></div> -->
 
 ## Tsinghua University
 
@@ -39,7 +40,8 @@ Yiming Lin, Madelon Hulsebos, **Ruiying Ma**, Shreya Shankar, Sepanta Zeigham, A
 
 *Sep. 2021 - Present*
 
-<img align="left" height="200" src="../images/Seal_of_University_of_California%2C_Berkeley.png">
+
+<!-- <div style="text-align: left"><img src="../images/Seal_of_University_of_California%2C_Berkeley.png" width="100" /></div> -->
 
 ## University of California, Berkeley 
 
@@ -47,7 +49,7 @@ Yiming Lin, Madelon Hulsebos, **Ruiying Ma**, Shreya Shankar, Sepanta Zeigham, A
 
 *Feb. 2024 - Aug. 2024*
 
-<img align="left" height="200" src="../images/msra.png">
+<!-- <div style="text-align: left"><img src="../images/msra.png" width="100" /></div> -->
 
 ## Microsoft Research Asia 
 
