@@ -16,11 +16,11 @@ I am a senior undergraduate at [Yao Class](https://iiis.tsinghua.edu.cn/en/yaocl
 
 # Preprints
 
-<font size=4>Towards Accurate and Efficient Document Analytics with Large Language Models</font>
+<font size=4>**Towards Accurate and Efficient Document Analytics with Large Language Models**</font>
 
 Yiming Lin, Madelon Hulsebos, **Ruiying Ma**, Shreya Shankar, Sepanta Zeigham, Aditya G. Parameswaran, Eugene Wu
 
-**[Paper](https://arxiv.org/abs/2405.04674)** 
+[paper](https://arxiv.org/abs/2405.04674)
 
 
 <span class='anchor' id='honors-and-awards'></span>
@@ -29,7 +29,9 @@ Yiming Lin, Madelon Hulsebos, **Ruiying Ma**, Shreya Shankar, Sepanta Zeigham, A
 
 # Education & Experiences
 
-## Tsinghua University ![Image title](../images/Tsinghua_University_Logo.png){ align=right style="height:6em; border-radius: 0.5em;"}
+<img align="left" height="200" src="../images/Tsinghua_University_Logo.png">
+
+## Tsinghua University
 
 ***Bachelor of Engineering*, Institute for Interdisciplinary Information Sciences (Yao Class).**
 
@@ -37,17 +39,21 @@ Yiming Lin, Madelon Hulsebos, **Ruiying Ma**, Shreya Shankar, Sepanta Zeigham, A
 
 *Sep. 2021 - Present*
 
-## University of California, Berkeley ![Image title](../images/Seal_of_University_of_California%2C_Berkeley.png){ align=right style="height:6em; border-radius: 0.5em;"}
+<img align="left" height="200" src="../images/Seal_of_University_of_California%2C_Berkeley.png">
+
+## University of California, Berkeley 
 
 ***Research Assistant*, advised by Prof. Aditya Parameswaran**
 
 *Feb. 2024 - Aug. 2024*
 
-## Microsoft Research Asia ![Image title](../images/msra.png){ align=right style="height:6em; border-radius: 0.5em;"}
+<img align="left" height="200" src="../images/msra.png">
+
+## Microsoft Research Asia 
 
 ***Research Intern*, advised by Dr. Chieh-Jan Mike Liang**
 
-*Feb. 2024 - Aug. 2024*
+*Aug. 2024 - Present*
 
 
 
