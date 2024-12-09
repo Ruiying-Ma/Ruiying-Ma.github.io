@@ -36,7 +36,7 @@ Yiming Lin, Madelon Hulsebos, **Ruiying Ma**, Shreya Shankar, Sepanta Zeigham, A
 
 ***Bachelor of Engineering*, Institute for Interdisciplinary Information Sciences (Yao Class)**
 
-***Research assistant*, advised by Prof. Huanchen Zhang**
+***Research Assistant*, advised by Prof. Huanchen Zhang**
 
 *Sep. 2021 - Present*
 
