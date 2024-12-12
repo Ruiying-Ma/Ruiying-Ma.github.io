@@ -53,7 +53,7 @@ Yiming Lin, Madelon Hulsebos, **Ruiying Ma**, Shreya Shankar, Sepanta Zeigham, A
 
 ## Microsoft Research Asia 
 
-***Research Intern*, advised by Dr. Chieh-Jan Mike Liang**
+***Research Intern*, advised by Dr. Chieh-Jan Mike Liang, Dr. Francis Yan, and Dr. Yanjie Gao**
 
 *Aug. 2024 - Present*
 
