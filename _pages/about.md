@@ -11,7 +11,7 @@ redirect_from:
 
 # Bio
 
-I am a senior undergraduate at [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), major in Computer Science and Technology. I am particularly interested in databases, systems, and data management. My goal is to develop a highly-efficient and -intelligent systems to make data management easier and more accurate. 
+I am a senior undergraduate at [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), major in Computer Science and Technology. I am particularly interested in databases, systems, and data management. My goal is to develop highly-efficient and -intelligent systems to make data management easier and more accurate. 
 
 
 # Preprints
